@@ -36,7 +36,7 @@
   },
   "homepage": "https://github.com/webdriverio/chrome-recorder#readme",
   "devDependencies": {
-    "@types/chai": "^4.3.14",
+    "@types/chai": "^5.0.1",
     "@types/inquirer": "^9.0.7",
     "@types/node": "^20.12.7",
     "@types/prettier": "^3.0.0",
